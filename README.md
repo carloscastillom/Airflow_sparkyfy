@@ -19,7 +19,7 @@ You'll be provided with a helpers class that contains all the SQL transformation
 
 ### Prerequisites:
 - Create an IAM User in AWS.
-- - Follow the steps on the page Create an IAM User in AWS in the lesson Data Pipelines.
+ - Follow the steps on the page Create an IAM User in AWS in the lesson Data Pipelines.
 -Create a redshift cluster in AWS.
 - - Follow the steps on the page Create an AWS Redshift Cluster in the lesson Data Pipelines. Ensure that you are creating this cluster in the us-west-2 region. This is important as the s3-bucket that we are going to use for this project is in us-west-2.
 ### Setting up Connections
