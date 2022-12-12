@@ -35,7 +35,8 @@ For this project, you'll be working with two datasets. Here are the s3 links for
 
 - Log data: s3://udacity-dend/log_data
 - Song data: s3://udacity-dend/song_data
-- 
+
+
 ### Project Template
 To get started with the project:
 
